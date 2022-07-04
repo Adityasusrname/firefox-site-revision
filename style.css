@@ -1,0 +1,34 @@
+body{
+    background-color: blue;
+}
+
+#superContainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+#container{
+    width: 500px;
+    padding: 25px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: orange;
+
+}
+#imageContainer{
+    display: flex;
+    justify-content: center;
+}
